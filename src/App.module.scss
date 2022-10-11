@@ -1,0 +1,103 @@
+.background {
+  background-color: #659dbd;
+  box-shadow: 2px;
+  display: flex;
+}
+
+.user_info_holder {
+  background-color: #fbeec1;
+  width: 400px;
+  height: 800px;
+  border-radius: 15px;
+  margin: 30px auto;
+  box-shadow: 2px;
+  -webkit-box-shadow: 20px 21px 25px -8px rgba(0, 0, 0, 0.51);
+  -moz-box-shadow: 20px 21px 25px -8px rgba(0, 0, 0, 0.51);
+  box-shadow: 20px 21px 25px -8px rgba(0, 0, 0, 0.51);
+  display: flex;
+  flex-direction: column;
+  font-family: Arial;
+}
+
+.user_name_holder {
+  width: 390px;
+  height: 40px;
+  text-align: center;
+  font-size: 40px;
+  padding: 5px;
+  margin-top: 10px;
+}
+
+.user_avatar_holder {
+  width: 200px;
+  height: 200px;
+  margin: 10px auto;
+  border-radius: 50%;
+  border: 1px solid black;
+  background-color: aliceblue;
+}
+
+.user_username_holder {
+  width: 400px;
+  font-size: 20px;
+
+  margin: 5px 0;
+  text-align: center;
+}
+
+.user_email_holder {
+  width: 400px;
+  font-size: 20px;
+  margin: 5px 0;
+  text-align: center;
+}
+
+.user_contacts_title_holder {
+  width: 400px;
+  text-align: center;
+  font-size: 40px;
+  margin: 10px 0;
+}
+
+.user_contacts_holder {
+  border-top: 1px solid black;
+  margin-top: 10px;
+}
+
+.user_phone_number_holder {
+  width: 400px;
+  height: 46px;
+  text-align: center;
+  font-size: 20px;
+  margin: 5px 0;
+}
+
+.user_address_holder {
+  width: 400px;
+  border-top: 1px solid black;
+  margin-top: 10px;
+}
+
+.user_address_title_holder {
+  text-align: center;
+  font-size: 40px;
+  margin: 10px 0;
+}
+
+.user_country_holder {
+  text-align: center;
+  font-size: 20px;
+  margin: 5px 0;
+}
+
+.user_state_holder {
+  text-align: center;
+  font-size: 20px;
+  margin: 5px 0;
+}
+
+.user_city_holder {
+  text-align: center;
+  font-size: 20px;
+  margin: 5px 0;
+}
